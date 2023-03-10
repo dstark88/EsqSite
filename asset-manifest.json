@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/EsqSite/static/css/main.a0839305.css",
+    "main.js": "/EsqSite/static/js/main.2edcce58.js",
+    "static/js/787.f152713b.chunk.js": "/EsqSite/static/js/787.f152713b.chunk.js",
+    "index.html": "/EsqSite/index.html",
+    "main.a0839305.css.map": "/EsqSite/static/css/main.a0839305.css.map",
+    "main.2edcce58.js.map": "/EsqSite/static/js/main.2edcce58.js.map",
+    "787.f152713b.chunk.js.map": "/EsqSite/static/js/787.f152713b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0839305.css",
+    "static/js/main.2edcce58.js"
+  ]
+}
