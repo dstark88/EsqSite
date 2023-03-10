@@ -89,7 +89,7 @@ export default function Footer() {
         <span>© 2023 Copyright:</span>
         <a
           class="font-semibold text-neutral-600 dark:text-neutral-400"
-          href="#!"
+          href="/"
         >
           {" "}
           Denny & Boulton
